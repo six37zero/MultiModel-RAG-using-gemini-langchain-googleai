@@ -1,4 +1,6 @@
 **Multi-Model RAG with Gemini, LangChain, and Google AI Studio
+
+
 **This project implements a Retrieval-Augmented Generation (RAG) pipeline utilizing Google's Gemini models, LangChain, and Google AI Studio to process both text and image data. The system leverages vector databases (FAISS) and Google Generative AI embeddings to enhance retrieval-based answering.
 
 Features
